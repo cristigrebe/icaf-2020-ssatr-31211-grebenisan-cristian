@@ -1,0 +1,75 @@
+{
+  "capsules": [
+    {
+      "capsule": {
+        "index": 0,
+        "inPort" : [0],
+        "outPort": [0],
+        "communications": [
+          {
+            "communication": {
+              "index": 1,
+              "inPortRel":{
+                "0":0
+              },
+              "outPortRel": {
+                "0":0
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "capsule": {
+        "index": 1,
+        "inPort" : [0],
+        "outPort": [0,1],
+        "communications": [
+          {
+            "communication": {
+              "index": 0,
+              "inPortRel":{
+                "0":0
+              },
+              "outPortRel": {
+                "0":0
+              }
+            }
+          },
+          {
+            "communication": {
+              "index": 2,
+              "inPortRel":{
+
+              },
+              "outPortRel": {
+                "1":0
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "capsule": {
+        "index": 2,
+        "inPort" : [0],
+        "outPort": [],
+        "communications": [
+          {
+            "communication": {
+              "index": 1,
+              "inPortRel":{
+                "0":1
+              },
+              "outPortRel": {
+
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

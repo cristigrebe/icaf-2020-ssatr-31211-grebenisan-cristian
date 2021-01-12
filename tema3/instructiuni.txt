@@ -1,0 +1,6 @@
+-proiectul a fost realizat in java cu maven => in fisierul pom.xml se alfa dependentele necesare proiectului;
+-in datas.json se afla structura capsulelor si legaturile intre acestea in format json care se vor citi in program;
+-in directorul output se afla fisiere text create in cadrul proiectului in care se salveaza informatiile trimise catre 
+un port de intrare din alta capsula cu scopul de a fi citite mai apoi de acel port de intrare;
+-in UML.jpeg se afla diagrama claselor pentru acest proiect.
+
