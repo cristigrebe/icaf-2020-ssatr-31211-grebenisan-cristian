@@ -1,0 +1,42 @@
+
+Time 0 => Locations: [Location {id=0 ,token=1} , Location {id=1 ,token=0} , Location {id=2 ,token=0} , Location {id=3 ,token=0} , Location {id=4 ,token=1} , Location {id=5 ,token=0} , Location {id=6 ,token=1} , Location {id=7 ,token=0} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 1 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=1} , Location {id=2 ,token=1} , Location {id=3 ,token=0} , Location {id=4 ,token=1} , Location {id=5 ,token=0} , Location {id=6 ,token=1} , Location {id=7 ,token=0} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 2 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=0} , Location {id=2 ,token=1} , Location {id=3 ,token=1} , Location {id=4 ,token=1} , Location {id=5 ,token=0} , Location {id=6 ,token=1} , Location {id=7 ,token=0} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 2 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=0} , Location {id=2 ,token=0} , Location {id=3 ,token=1} , Location {id=4 ,token=1} , Location {id=5 ,token=1} , Location {id=6 ,token=1} , Location {id=7 ,token=0} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 3 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=0} , Location {id=2 ,token=0} , Location {id=3 ,token=0} , Location {id=4 ,token=0} , Location {id=5 ,token=1} , Location {id=6 ,token=1} , Location {id=7 ,token=1} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 3 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=0} , Location {id=2 ,token=0} , Location {id=3 ,token=0} , Location {id=4 ,token=0} , Location {id=5 ,token=0} , Location {id=6 ,token=0} , Location {id=7 ,token=1} , Location {id=8 ,token=1} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+DEADLOCK!
+
+Time 0 => Locations: [Location {id=0 ,token=1} , Location {id=1 ,token=0} , Location {id=2 ,token=0} , Location {id=3 ,token=0} , Location {id=4 ,token=1} , Location {id=5 ,token=0} , Location {id=6 ,token=1} , Location {id=7 ,token=0} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 1 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=1} , Location {id=2 ,token=1} , Location {id=3 ,token=0} , Location {id=4 ,token=1} , Location {id=5 ,token=0} , Location {id=6 ,token=1} , Location {id=7 ,token=0} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 2 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=0} , Location {id=2 ,token=1} , Location {id=3 ,token=1} , Location {id=4 ,token=1} , Location {id=5 ,token=0} , Location {id=6 ,token=1} , Location {id=7 ,token=0} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 2 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=0} , Location {id=2 ,token=0} , Location {id=3 ,token=1} , Location {id=4 ,token=1} , Location {id=5 ,token=1} , Location {id=6 ,token=1} , Location {id=7 ,token=0} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 3 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=0} , Location {id=2 ,token=0} , Location {id=3 ,token=0} , Location {id=4 ,token=0} , Location {id=5 ,token=1} , Location {id=6 ,token=1} , Location {id=7 ,token=1} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 3 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=0} , Location {id=2 ,token=0} , Location {id=3 ,token=0} , Location {id=4 ,token=0} , Location {id=5 ,token=0} , Location {id=6 ,token=0} , Location {id=7 ,token=1} , Location {id=8 ,token=1} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+DEADLOCK!
+
+Time 0 => Locations: [Location {id=0 ,token=1} , Location {id=1 ,token=0} , Location {id=2 ,token=0} , Location {id=3 ,token=0} , Location {id=4 ,token=1} , Location {id=5 ,token=0} , Location {id=6 ,token=1} , Location {id=7 ,token=0} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 1 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=1} , Location {id=2 ,token=1} , Location {id=3 ,token=0} , Location {id=4 ,token=1} , Location {id=5 ,token=0} , Location {id=6 ,token=1} , Location {id=7 ,token=0} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 2 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=0} , Location {id=2 ,token=1} , Location {id=3 ,token=1} , Location {id=4 ,token=1} , Location {id=5 ,token=0} , Location {id=6 ,token=1} , Location {id=7 ,token=0} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 2 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=0} , Location {id=2 ,token=0} , Location {id=3 ,token=1} , Location {id=4 ,token=1} , Location {id=5 ,token=1} , Location {id=6 ,token=1} , Location {id=7 ,token=0} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 3 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=0} , Location {id=2 ,token=0} , Location {id=3 ,token=0} , Location {id=4 ,token=0} , Location {id=5 ,token=1} , Location {id=6 ,token=1} , Location {id=7 ,token=1} , Location {id=8 ,token=0} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+Time 3 => Locations: [Location {id=0 ,token=0} , Location {id=1 ,token=0} , Location {id=2 ,token=0} , Location {id=3 ,token=0} , Location {id=4 ,token=0} , Location {id=5 ,token=0} , Location {id=6 ,token=0} , Location {id=7 ,token=1} , Location {id=8 ,token=1} , Location {id=9 ,token=0} , Location {id=10 ,token=0} , Location {id=11 ,token=0} , Location {id=12 ,token=0} , Location {id=13 ,token=0} ]
+
+DEADLOCK!

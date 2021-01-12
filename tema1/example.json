@@ -1,0 +1,32 @@
+{ "locations":[
+  {
+    "location": {
+      "id":0,
+      "token":2
+    }
+  },
+  {
+    "location": {
+      "id":1,
+      "token":0
+    }
+  },
+  {
+    "location": {
+      "id":2,
+      "token":0
+    }
+  }
+],
+  "transitions": [
+    {
+      "transition": {
+        "id":0,
+        "input": [0,1],
+        "output": [2],
+        "tmin": 0,
+        "tmax":0
+      }
+    }
+  ]
+}
